@@ -6,5 +6,7 @@ Contents:
 - blast_sequence3.png: Protein BLAST result screenshot.
 - blast_sequence1.png: DNA BLAST result screenshot.
 
+Tools used: NCBI BLAST (BLASTn and BLASTp)
+
 Submitted by:
 Name: Abhishek Yadav
