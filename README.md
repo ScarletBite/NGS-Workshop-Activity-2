@@ -9,4 +9,4 @@ Contents:
 Tools used: NCBI BLAST (BLASTn and BLASTp)
 
 Submitted by:
-Name: Abhishek Yadav
+Abhishek Yadav
